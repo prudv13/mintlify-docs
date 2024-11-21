@@ -26,20 +26,20 @@
     "url": "https://www.prudvdesign.com"
   },
   "tabs": [
-    {
+    <!-- {
       "name": "API Reference",
       "url": "api-reference"
-    }
+    } -->
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Case Study",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Pitch Deck",
+      "icon": "slide",
       "url": "https://mintlify.com/community"
     },
     {
