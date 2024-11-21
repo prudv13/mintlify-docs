@@ -26,10 +26,6 @@
     "url": "https://www.prudvdesign.com"
   },
   "tabs": [
-    <!-- {
-      "name": "API Reference",
-      "url": "api-reference"
-    } -->
   ],
   "anchors": [
     {
@@ -50,42 +46,17 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Design Process",
       "pages": [
         "introduction",
         "quickstart",
         "development"
       ]
     },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/prudv_ux",
+    "github": "https://github.com/prudv13",
+    "linkedin": "https://www.linkedin.com/in/prudhvi-raj06"
   }
 }
