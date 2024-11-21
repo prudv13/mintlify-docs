@@ -35,20 +35,15 @@
     },
     {
       "name": "Pitch Deck",
-      "icon": "presentation-chart-bar",
+      "icon": "presentation-screen",
       "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
       "group": "Design Process",
       "pages": [
-        "introduction",
+        "overview",
         "quickstart",
         "development"
       ]
