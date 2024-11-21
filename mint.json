@@ -7,9 +7,9 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#2D98CA",
+    "light": "#2CBCFF",
+    "dark": "#2D98CA",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "https://www.prudvdesign.com/contact"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "My Portfolio",
+    "url": "https://www.prudvdesign.com"
   },
   "tabs": [
     {
